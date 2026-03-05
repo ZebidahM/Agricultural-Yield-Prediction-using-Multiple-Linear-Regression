@@ -23,11 +23,6 @@ The analysis uses a vast agricultural dataset including:
 
 ## Project Structure
 - `Linear_regression_analysis.ipynb`: The main Jupyter Notebook containing the data analysis and modeling.
-- `data_ingestion.py`: Module for importing and initial handling of the database.
-- `field_data_processor.py`: Module for cleaning and processing field-specific data.
-- `validate_data.py`: A testing suite using `pytest` to ensure data integrity and schema validity.
 
-## Installation & Usage
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/agricultural-yield-prediction.git](https://github.com/your-username/agricultural-yield-prediction.git)
+
+
